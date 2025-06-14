@@ -1,4 +1,7 @@
-```md
+Here's your updated and polished `README.md` with proper credit to JavaScript Mastery:
+
+---
+
 # 🍣 SUSHIMAN - Sushi Website
 
 Welcome to **SUSHIMAN**, a modern and stylish sushi restaurant landing page. This responsive website is built using **HTML**, **CSS** (modularized), and **JavaScript**, powered by **Vite** for fast development and build performance. It features smooth animations with **AOS (Animate On Scroll)** for an engaging user experience.
@@ -7,13 +10,12 @@ Welcome to **SUSHIMAN**, a modern and stylish sushi restaurant landing page. Thi
 
 ## 📸 Preview
 
-![Project Screenshot](./assets/preview.png) <!-- Replace with actual image path if different -->
+![Project Screenshot](./assets/preview.png) <!-- Ensure preview image is saved in the assets folder -->
 
 ## 📁 Project Structure
 
 ```
-
-SUSHI\_WEBSITE/
+SUSHI_WEBSITE/
 │
 ├── assets/                 # Images, icons, and other static assets
 │
@@ -38,17 +40,16 @@ SUSHI\_WEBSITE/
 ├── package-lock.json       # Locked dependency versions
 ├── .gitignore              # Git ignore rules
 └── README.md               # Project documentation
-
-````
+```
 
 ## 🚀 Features
 
-- ⚡ Blazing fast development with **Vite**
-- 💅 Clean, minimal, and modern UI
-- 🍱 Fully responsive layout
-- 🎬 AOS-based scroll animations
-- 🎨 Modular CSS for better maintainability
-- 📱 Mobile-first design
+* ⚡ Blazing fast development with **Vite**
+* 💅 Clean, minimal, and modern UI
+* 🍱 Fully responsive layout
+* 🎬 AOS-based scroll animations
+* 🎨 Modular CSS for better maintainability
+* 📱 Mobile-first design
 
 ## 🔧 Getting Started
 
@@ -57,7 +58,7 @@ SUSHI\_WEBSITE/
 ```bash
 git clone https://github.com/your-username/sushi-website.git
 cd sushi-website
-````
+```
 
 ### 2. Install dependencies
 
@@ -102,3 +103,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Let me know if you'd like this README exported as a file or further customized for deployment (e.g., Netlify, Vercel, or GitHub Pages).
