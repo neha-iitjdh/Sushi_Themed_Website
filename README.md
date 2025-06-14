@@ -39,12 +39,12 @@ SUSHI_WEBSITE/
 ```
 
 ## 🚀 Features
-⚡ Blazing fast development with **Vite**
-💅 Clean, minimal, and modern UI
-🍱 Fully responsive layout
-🎬 AOS-based scroll animations
-🎨 Modular CSS for better maintainability
-📱 Mobile-first design
+*⚡ Blazing fast development with **Vite**
+*💅 Clean, minimal, and modern UI
+*🍱 Fully responsive layout
+*🎬 AOS-based scroll animations
+*🎨 Modular CSS for better maintainability
+*📱 Mobile-first design
 
 ## 🔧 Getting Started
 
