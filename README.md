@@ -1,7 +1,3 @@
-Here's your updated and polished `README.md` with proper credit to JavaScript Mastery:
-
----
-
 # 🍣 SUSHIMAN - Sushi Website
 
 Welcome to **SUSHIMAN**, a modern and stylish sushi restaurant landing page. This responsive website is built using **HTML**, **CSS** (modularized), and **JavaScript**, powered by **Vite** for fast development and build performance. It features smooth animations with **AOS (Animate On Scroll)** for an engaging user experience.
@@ -103,7 +99,3 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like this README exported as a file or further customized for deployment (e.g., Netlify, Vercel, or GitHub Pages).
