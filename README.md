@@ -2,11 +2,11 @@
 
 Welcome to **SUSHIMAN**, a modern and stylish sushi restaurant landing page. This responsive website is built using **HTML**, **CSS** (modularized), and **JavaScript**, powered by **Vite** for fast development and build performance. It features smooth animations with **AOS (Animate On Scroll)** for an engaging user experience.
 
-## 📸 Preview
+## Preview
 
 ![Project Screenshot](./assets/preview.png) <!-- Ensure preview image is saved in the assets folder -->
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 SUSHI_WEBSITE/
@@ -36,13 +36,13 @@ SUSHI_WEBSITE/
 └── README.md               # Project documentation
 ```
 
-## 🚀 Features
-* ⚡ Blazing fast development with **Vite**
-* 💅 Clean, minimal, and modern UI
-* 🍱 Fully responsive layout
-* 🎬 AOS-based scroll animations
-* 🎨 Modular CSS for better maintainability
-* 📱 Mobile-first design
+## Features
+* Blazing fast development with **Vite**
+* Clean, minimal, and modern UI
+* Fully responsive layout
+* AOS-based scroll animations
+* Modular CSS for better maintainability
+* Mobile-first design
 
 ## 🔧 Getting Started
 
@@ -79,14 +79,14 @@ npm run build
 npm run preview
 ```
 
-## 📦 Dependencies
+## Dependencies
 
 * [`vite`](https://vitejs.dev/) — Next-gen frontend tooling
 * [`aos`](https://michalsnik.github.io/aos/) — Animate On Scroll library
 
-## 📌 Credits
+## Credits
 
 This project was built by following a tutorial from **JavaScript Mastery**. All credits for the original design and structure go to them.
-📺 [Check out their amazing tutorials](https://www.youtube.com/@javascriptmastery/videos)
+[Check out their amazing tutorials](https://www.youtube.com/@javascriptmastery/videos)
 
 
